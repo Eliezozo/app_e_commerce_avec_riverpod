@@ -1,0 +1,178 @@
+[
+  {
+    "id": "p1",
+    "name": "Casque Bluetooth Nova",
+    "description": "Casque over-ear avec réduction de bruit active, autonomie 30 h et coussinets mémoire de forme. Idéal pour le travail et les trajets.",
+    "price": 89.90,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+    "category": "Électronique",
+    "rating": 4.7,
+    "reviewCount": 214,
+    "stock": 18
+  },
+  {
+    "id": "p2",
+    "name": "Montre connectée Pulse",
+    "description": "Suivi cardiaque, GPS intégré, étanchéité 5 ATM et notifications smartphone. Bracelet interchangeable.",
+    "price": 129.00,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+    "category": "Électronique",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "stock": 12
+  },
+  {
+    "id": "p3",
+    "name": "Enceinte portable Wave",
+    "description": "Son 360°, Bluetooth 5.3, 12 h d'autonomie et certification IPX7 pour une utilisation en extérieur.",
+    "price": 59.50,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=80",
+    "category": "Électronique",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "stock": 25
+  },
+  {
+    "id": "p4",
+    "name": "Sneakers Urban Trail",
+    "description": "Semelle amortie, mesh respirant et design unisexe. Confort tout au long de la journée, ville ou week-end.",
+    "price": 74.90,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+    "category": "Mode",
+    "rating": 4.6,
+    "reviewCount": 301,
+    "stock": 40
+  },
+  {
+    "id": "p5",
+    "name": "Veste légère Atelier",
+    "description": "Coupe droite, tissu déperlant et poches zippées. Une pièce polyvalente pour la mi-saison.",
+    "price": 99.00,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800&q=80",
+    "category": "Mode",
+    "rating": 4.3,
+    "reviewCount": 76,
+    "stock": 15
+  },
+  {
+    "id": "p6",
+    "name": "Sac cabas Canvas",
+    "description": "Coton canvas renforcé, anse confortable et poche intérieure. Format week-end, lavable en machine.",
+    "price": 42.00,
+    "imageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a941954?w=800&q=80",
+    "category": "Mode",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "stock": 22
+  },
+  {
+    "id": "p7",
+    "name": "Lampe de bureau Halo",
+    "description": "Éclairage LED réglable, bras articulé et port USB. Température de couleur chaude à froide.",
+    "price": 36.90,
+    "imageUrl": "https://images.unsplash.com/photo-1507473881169-80ed2d176ba8?w=800&q=80",
+    "category": "Maison",
+    "rating": 4.2,
+    "reviewCount": 54,
+    "stock": 30
+  },
+  {
+    "id": "p8",
+    "name": "Mug céramique artisan",
+    "description": "Grès émaillé 350 ml, anse large, va au lave-vaisselle. Fabriqué en petite série.",
+    "price": 18.50,
+    "imageUrl": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800&q=80",
+    "category": "Maison",
+    "rating": 4.9,
+    "reviewCount": 88,
+    "stock": 50
+  },
+  {
+    "id": "p9",
+    "name": "Plante d'intérieur Monstera",
+    "description": "Monstera deliciosa en pot 18 cm, plante purificatrice d'air. Livrée avec guide d'entretien.",
+    "price": 27.00,
+    "imageUrl": "https://images.unsplash.com/photo-1614594975525-e87bb39d12e2?w=800&q=80",
+    "category": "Maison",
+    "rating": 4.6,
+    "reviewCount": 119,
+    "stock": 8
+  },
+  {
+    "id": "p10",
+    "name": "Tapis de yoga Grip",
+    "description": "TPE 6 mm antidérapant, sangle de transport incluse. Convient au yoga, au pilates et aux étirements.",
+    "price": 32.90,
+    "imageUrl": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&q=80",
+    "category": "Sport",
+    "rating": 4.5,
+    "reviewCount": 203,
+    "stock": 35
+  },
+  {
+    "id": "p11",
+    "name": "Gourde isotherme 750 ml",
+    "description": "Inox double paroi, garde le froid 24 h et le chaud 12 h. Bouchon étanche et sans BPA.",
+    "price": 24.90,
+    "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=80",
+    "category": "Sport",
+    "rating": 4.7,
+    "reviewCount": 176,
+    "stock": 44
+  },
+  {
+    "id": "p12",
+    "name": "Haltères 2 × 3 kg",
+    "description": "Revêtement néoprène, prise confortable. Parfaites pour le renforcement à domicile.",
+    "price": 29.00,
+    "imageUrl": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=800&q=80",
+    "category": "Sport",
+    "rating": 4.4,
+    "reviewCount": 61,
+    "stock": 20
+  },
+  {
+    "id": "p13",
+    "name": "Sérum hydratant Aloe",
+    "description": "Formule légère à l'aloe vera et à l'acide hyaluronique. Convient à tous les types de peau.",
+    "price": 21.90,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&q=80",
+    "category": "Beauté",
+    "rating": 4.8,
+    "reviewCount": 245,
+    "stock": 28
+  },
+  {
+    "id": "p14",
+    "name": "Bougie parfumée Cèdre",
+    "description": "Cire végétale, mèche coton, 45 h de combustion. Notes boisées de cèdre et de vétiver.",
+    "price": 19.90,
+    "imageUrl": "https://images.unsplash.com/photo-1603006905002-028c5e2c0a5b?w=800&q=80",
+    "category": "Beauté",
+    "rating": 4.6,
+    "reviewCount": 92,
+    "stock": 33
+  },
+  {
+    "id": "p15",
+    "name": "Crème mains Karité",
+    "description": "Beurre de karité non raffiné, texture riche sans parfum irritant. Tube 75 ml.",
+    "price": 12.50,
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&q=80",
+    "category": "Beauté",
+    "rating": 4.7,
+    "reviewCount": 158,
+    "stock": 60
+  },
+  {
+    "id": "p16",
+    "name": "Écouteurs true wireless",
+    "description": "Boîtier compact, 6 h + 18 h d'autonomie, commandes tactiles et micro intégré.",
+    "price": 49.90,
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80",
+    "category": "Électronique",
+    "rating": 4.3,
+    "reviewCount": 134,
+    "stock": 16
+  }
+]
